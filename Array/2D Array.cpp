@@ -1,4 +1,4 @@
-// 2D Array.
+// 2D Array
 
 #include <stdio.h>
 #include <stdlib.h>
